@@ -1,0 +1,188 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2800
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(ROBEL YONAS) Tj
+0 -30 Td
+/F2 12 Tf
+(Aspiring Software Engineer | Full-Stack Developer | ML Enthusiast) Tj
+0 -40 Td
+/F2 10 Tf
+(Email: robel4872@gmail.com | Phone: +46 722 405 372) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/robel-yonas | GitHub: github.com/RobelYonas) Tj
+0 -15 Td
+(Location: Sweden) Tj
+
+0 -40 Td
+/F1 14 Tf
+(EDUCATION) Tj
+0 -20 Td
+/F2 12 Tf
+(Master of Science in Computer Science) Tj
+0 -15 Td
+/F2 10 Tf
+(Swedish University, 2022 - Present) Tj
+0 -10 Td
+(Specialization: Machine Learning & Software Engineering) Tj
+
+0 -30 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+0 -20 Td
+/F2 10 Tf
+(Programming Languages: Python, JavaScript, TypeScript, Java, C++) Tj
+0 -12 Td
+(Frontend: React, HTML5, CSS3, Tailwind CSS, Motion) Tj
+0 -12 Td
+(Backend: Node.js, Express, FastAPI, RESTful APIs) Tj
+0 -12 Td
+(Databases: PostgreSQL, MongoDB, Supabase) Tj
+0 -12 Td
+(Machine Learning: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy) Tj
+0 -12 Td
+(Tools & Platforms: Git, Docker, AWS, Vercel, Figma) Tj
+
+0 -30 Td
+/F1 14 Tf
+(PROJECTS) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Flight Delay Prediction System) Tj
+0 -12 Td
+/F2 10 Tf
+(Machine learning model predicting flight delays with 85% accuracy) Tj
+0 -10 Td
+(Technologies: Python, TensorFlow, Pandas, FastAPI) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Smart Home Control Application) Tj
+0 -12 Td
+/F2 10 Tf
+(IoT dashboard for monitoring and controlling smart home devices) Tj
+0 -10 Td
+(Technologies: React, Node.js, MongoDB, MQTT) Tj
+
+0 -20 Td
+/F2 12 Tf
+(Parking Spot Detection System) Tj
+0 -12 Td
+/F2 10 Tf
+(Computer vision system for real-time parking availability detection) Tj
+0 -10 Td
+(Technologies: Python, OpenCV, TensorFlow, Raspberry Pi) Tj
+
+0 -30 Td
+/F1 14 Tf
+(EXPERIENCE) Tj
+0 -20 Td
+/F2 12 Tf
+(Software Development Student) Tj
+0 -12 Td
+/F2 10 Tf
+(2022 - Present) Tj
+0 -10 Td
+(Developing full-stack applications with focus on user experience) Tj
+0 -10 Td
+(Building machine learning solutions for real-world problems) Tj
+0 -10 Td
+(Collaborating on academic and personal projects) Tj
+
+0 -30 Td
+/F1 14 Tf
+(ACHIEVEMENTS) Tj
+0 -20 Td
+/F2 10 Tf
+(Academic Excellence in Computer Science Master's Program) Tj
+0 -12 Td
+(Developed 3+ Major Software Projects) Tj
+0 -12 Td
+(Proficient in 10+ Programming Languages and Frameworks) Tj
+0 -12 Td
+(2+ Years of Software Development Experience) Tj
+
+0 -30 Td
+/F1 14 Tf
+(INTERESTS) Tj
+0 -20 Td
+/F2 10 Tf
+(Machine Learning Research, Full-Stack Development) Tj
+0 -12 Td
+(Open Source Contributions, Tech Community Involvement) Tj
+0 -12 Td
+(Seeking internship and collaboration opportunities) Tj
+
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000003126 00000 n 
+0000003197 00000 n 
+trailer
+<<
+/Size 7
+/Root 1 0 R
+>>
+startxref
+3264
+%%EOF
